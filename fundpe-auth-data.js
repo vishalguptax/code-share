@@ -1,3 +1,4 @@
+// Response and Payload for auth controller page
 const authControllerData = [
     {
         name: 'clients',
